@@ -1,0 +1,24 @@
+# Виртуальное окружение
+venv/
+
+# Модель Vosk (слишком тяжёлая для гита)
+model/
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Системные
+*.log
+.DS_Store
+Thumbs.db
